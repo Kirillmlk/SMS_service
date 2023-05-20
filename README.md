@@ -1,6 +1,6 @@
 # Сервис уведомлений
 
-Сервис разработан на django rest framework с celery
+Сервис разработан на django rest framework
 
 ## Установка и запуск
 
